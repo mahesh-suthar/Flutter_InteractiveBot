@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923234742180",
+    "project_id": "interactivebot-25a",
+    "storage_bucket": "interactivebot-25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923234742180:android:9df76db7187edf03c85b31",
+        "android_client_info": {
+          "package_name": "com.example.interactive_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923234742180-om1eo182suh2cfo3u3gjkmhsc7os7ta9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA46C-t3N2ipBJNuI45jwZMNgWFm8tB_nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923234742180-om1eo182suh2cfo3u3gjkmhsc7os7ta9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
